@@ -2,6 +2,7 @@
 
 HTML document available here https://dev-p-l.github.io/Net_Promoter_Score_for_Financial_Services/NPS.html .
 
+<br>
 
 # Highlights
 

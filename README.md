@@ -5,7 +5,8 @@ https://dev-p-l.github.io/Net_Promoter_Score_for_Financial_Services/NPS.html
 <br>
 <br>
 
-# Swift Presentation of Prject on \n \n Net Promoter Score for Financial Services
+# Swift Presentation of Prject on 
+# Net Promoter Score for Financial Services
 
 As expressed by Qualtrics about NPS^®^, "[NPS® is often held up as the gold standard customer experience metric.](https://www.qualtrics.com/uk/experience-management/customer/net-promoter-score/?rid=ip&prevsite=en&newsite=uk&geo=FR&geomatch=uk)" For the banking and financial services in particular, Cvetilena Gocheva writes on the CustomerGauge website that this CX metric "[has never been more important](https://customergauge.com/benchmarks/blog/financial-services-nps-benchmarks)".
 
